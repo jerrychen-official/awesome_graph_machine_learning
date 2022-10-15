@@ -16,6 +16,8 @@ Networks from the Bayesian-Inference Perspective](https://arxiv.org/abs/2207.113
 
 - [Breaking the Limits of Message Passing Graph Neural Networks](https://arxiv.org/abs/2106.04319)
 
+- [On Provable Benefits of Depth in Training Graph Convolutional Networks](https://arxiv.org/abs/2110.15174v1)
+
 
 ## 2020
 
