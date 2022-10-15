@@ -19,7 +19,10 @@ Networks from the Bayesian-Inference Perspective](https://arxiv.org/abs/2207.113
 
 ## 2020
 
+- [Towards Deeper Graph Neural Networks](https://arxiv.org/abs/2007.09296)
 
 ## 2019 and earlier
 
 - [Discriminative Embeddings of Latent Variable Models for Structured Data](https://arxiv.org/abs/1603.05629)
+
+- [Graph U-Nets](https://arxiv.org/pdf/1905.05178.pdf)
