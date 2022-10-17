@@ -18,10 +18,19 @@ Networks from the Bayesian-Inference Perspective](https://arxiv.org/abs/2207.113
 
 - [On Provable Benefits of Depth in Training Graph Convolutional Networks](https://arxiv.org/abs/2110.15174v1)
 
+- [Not All Low-Pass Filters are Robust in Graph Convolutional Networks](https://openreview.net/pdf?id=bDdfxLQITtu)
+
+- [A Convergence Analysis of Gradient Descent on Graph Neural Networks](https://papers.nips.cc/paper/2021/file/aaf2979785deb27864047e0ea40ef1b7-Paper.pdf)
+
+- [VQ-GNN: A Universal Framework to Scale up Graph Neural Networks using Vector Quantization](https://arxiv.org/abs/2110.14363)
 
 ## 2020
 
 - [Towards Deeper Graph Neural Networks](https://arxiv.org/abs/2007.09296)
+
+- [One Explanation is Not Enough: Structured Attention Graphs for Image Classification]
+
+- [Random Walk Graph Neural Networks](https://papers.nips.cc/paper/2020/hash/ba95d78a7c942571185308775a97a3a0-Abstract.html)
 
 ## 2019 and earlier
 
