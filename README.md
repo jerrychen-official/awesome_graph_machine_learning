@@ -28,8 +28,6 @@ Networks from the Bayesian-Inference Perspective](https://arxiv.org/abs/2207.113
 
 - [Towards Deeper Graph Neural Networks](https://arxiv.org/abs/2007.09296)
 
-- [One Explanation is Not Enough: Structured Attention Graphs for Image Classification]
-
 - [Random Walk Graph Neural Networks](https://papers.nips.cc/paper/2020/hash/ba95d78a7c942571185308775a97a3a0-Abstract.html)
 
 ## 2019 and earlier
